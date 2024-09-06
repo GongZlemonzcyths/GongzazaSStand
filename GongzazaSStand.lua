@@ -1,14 +1,3 @@
-
---[[---------------------------------------------------------------------------------------------------
-    
-
-    getgenv().ToggleUI = "J" Key Toggle "J" 
-   getgenv().SakuraHub = "https://raw.githubusercontent.com/Lvl9999/SakuraStand/main/SakuraHub";
-
-    pcall(function()
-        loadstring(game:HttpGet(getgenv().SakuraHub))();
-    end)
-]]-----------------------------------------------------------------------------------------------------
 getgenv().CurrentVersion = "1.31";
 
 
